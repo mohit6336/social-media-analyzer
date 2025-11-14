@@ -1,0 +1,36 @@
+{
+  "mohit@example.com": [
+    {
+      "id": "0c799ee8-ba87-4a6b-b109-5564b3020461",
+      "filename": "Copy of Social Media Content Analyzer - Assignment 2 (2).pdf",
+      "extracted_text": "Subject: Technical Assessment Project - Software Engineering Position\nDear Candidate\n\nThank you for your interest in the Software Engineer position at [Company Name]. We've\nreviewed your application and would like to proceed with our technical assessment phase.\n\nWe believe in evaluating candidates through practical, real-world scenarios. Here's your project\nchallenge:\n\nProject: Social Media Content Analyzer is an application that analyzes social media posts and\nsuggests engagement improvements.\n\nRequired Features:\n1. Document Upload:\n\ne Allow users to upload PDF files and image files (e.g., scanned documents).\ne Support drag-and-drop or file picker interface for easy uploads.\n\n2. Text Extraction:\n\ne PDF Parsing: Extract text from PDFs while maintaining formatting.\nOCR (Optical Character Recognition): For image files (scanned documents), extract text\nusing OCR technology (e.g., Tesseract).\n\nTechnical Requirements:\n\n- Clean, production-quality code\n\n- Basic error handling\n\n- Loading states for better UX\n\n- Simple documentation explaining your approach\n\nTechnical Freedom:\n- Use any frameworks/technologies you're comfortable with\n- Free to use Al/ML services (any free tier)\n- Collect test data from public sources\n\nDeliverables:\n\n1. Working application URL\n2. GitHub repository with source code and README\n\n3. Brief write-up of your approach (200 words max)\nTimeline:\n\n- Project deadline: 1st Sep 2025\n- Time investment: Maximum 8 hours\n\nWe'll evaluate based on:\n- Problem-solving approach\n- Code quality\n- Working functionality\n- Documentation\nNext Steps:\n1. Confirm receipt of this email\n2. Submit your GitHub repository link and hosted application URL by the deadline\n3. We'll review and respond within 3 business days\n\nQuestions? Feel free to ask. Good luck!\n\nBest regards, [Your Name] [Company Name]",
+      "summary": "Technical Requirements:\n\n- Clean, production-quality code\n\n- Basic error handling\n\n- Loading states for better UX\n\n- Simple documentation explaining your approach\n\nTechnical Freedom:\n- Use any frameworks/technologies you're comfortable with\n- Free to use Al/ML services (any free tier)\n- Collect test data from public sources\n\nDeliverables:\n\n1. Brief write-up of your approach (200 words max)\nTimeline:\n\n- Project deadline: 1st Sep 2025\n- Time investment: Maximum 8 hours\n\nWe'll evaluate based on:\n- Problem-solving approach\n- Code quality\n- Working functionality\n- Documentation\nNext Steps:\n1. Subject: Technical Assessment Project - Software Engineering Position\nDear Candidate\n\nThank you for your interest in the Software Engineer position at [Company Name].",
+      "keywords": [
+        "#technical",
+        "#project",
+        "#application",
+        "#name",
+        "#1."
+      ],
+      "tone": "Positive",
+      "timestamp": "2025-11-14T13:20:35.678626"
+    }
+  ],
+  "chaumohithanmohit7661@gmail.com": [
+    {
+      "id": "da4269ef-5136-499e-941d-e0db0b3f6413",
+      "filename": "Screenshot 2025-09-20 234107.png",
+      "extracted_text": "\u00a9 Ltimindtree\n\nv\n\nYour have been\nshortlisted!\n\n1\nCongratulations! Your application for the\nposition Software Engineer (Bengaluru)\n\nat LTIMindtree, has been shortlisted\n\nreference number aga Our Talent\nAcquisition Specialist will be in touch to\nassist you through the process.\n\nYour Next Action",
+      "summary": "Your application for the\nposition Software Engineer (Bengaluru)\n\nat LTIMindtree, has been shortlisted\n\nreference number aga Our Talent\nAcquisition Specialist will be in touch to\nassist you through the process. \u00a9 Ltimindtree\n\nv\n\nYour have been\nshortlisted! 1\nCongratulations!",
+      "keywords": [
+        "#ltimindtree",
+        "#shortlisted",
+        "#\u00a9",
+        "#v",
+        "#1"
+      ],
+      "tone": "Neutral",
+      "timestamp": "2025-11-14T13:24:50.523475"
+    }
+  ]
+}

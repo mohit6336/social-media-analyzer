@@ -1,0 +1,10 @@
+{
+  "mohit@example.com": {
+    "name": "Mohit",
+    "password": "scrypt:32768:8:1$POSDQHGRDIWh7JC5$5360618e9719fbc9e8683bc1dbd48f5b120b102fb570b69f893cb31bd6ad489d15b914202d7d2fb055978c5df6cf650da8f5ebf5bde10962841ffb6c5cc497be"
+  },
+  "chaumohithanmohit7661@gmail.com": {
+    "name": "mohit",
+    "password": "scrypt:32768:8:1$Vj5WpWpLQIjhaHFU$043111f687c65587f85194cbd20afd203751f79bd55c30144d143e41be01f4278de4d54972aaf4509ee88c8d51504a13066183db977b24fd520c3f0e2826ffc5"
+  }
+}
