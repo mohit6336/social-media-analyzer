@@ -2,11 +2,46 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Glass UI styles */
+/* Dark background */
 body {
-  @apply bg-gradient-to-br from-gray-900 via-gray-800 to-gray-950 text-white;
+  @apply bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white;
+  font-family: "Inter", sans-serif;
 }
 
+/* Glass card */
 .glass {
-  @apply bg-white/10 backdrop-blur-xl border border-white/20 rounded-xl shadow-xl;
+  @apply bg-white/10 backdrop-blur-xl border border-white/10 shadow-2xl rounded-2xl p-6;
+}
+
+/* Input styles */
+.input {
+  @apply w-full p-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-white/50 outline-none;
+}
+
+/* Buttons */
+.btn {
+  @apply px-5 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-xl font-semibold transition shadow-md;
+}
+
+.btn-outline {
+  @apply px-5 py-3 border border-white/30 text-white rounded-xl hover:bg-white/10 transition;
+}
+
+/* Section titles */
+.section-title {
+  @apply text-xl font-semibold mb-3;
+}
+
+/* Loading bar */
+.loading-bar {
+  width: 60px;
+  height: 6px;
+  background: linear-gradient(90deg, transparent, #3b82f6, transparent);
+  background-size: 200% 100%;
+  animation: loadingAnim 1s linear infinite;
+}
+
+@keyframes loadingAnim {
+  0% { background-position: 0% 0; }
+  100% { background-position: 200% 0; }
 }
