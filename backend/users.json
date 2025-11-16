@@ -18,5 +18,9 @@
   "Culpa vel veritatis": {
     "name": "Aut et magnam volupt",
     "password": "scrypt:32768:8:1$sRuL72oo5aa46Evb$ac2e214e7d455a2ca7f4b5f7e8d48abd83573d6f9319a6ce8371c83c21d5e77a24a4654a50bd55206b945a1fa5700303322de1fa6bd30153433a222b6cec4d10"
+  },
+  "Velit qui dolorum ad": {
+    "name": "Qui est aut blanditi",
+    "password": "scrypt:32768:8:1$IqzkDixUY5kPNx55$237f2f3fc46f00c0e9895e37e8da1344c3249c487c63c65dd29d5adf05e0e41535e36e8ce4b948a07809ce70d0b47349103e4974f3383c3200df98de884dbef2"
   }
 }

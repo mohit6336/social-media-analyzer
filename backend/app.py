@@ -215,8 +215,7 @@ def history():
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
-
-#     cd C:\projects\social-media-analyzer\backend
-# venv\Scripts\activate
+#      cd C:\projects\social-media-analyzer\backend
+#  venv\Scripts\activate
 # python app.py
 
