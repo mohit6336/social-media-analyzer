@@ -14,12 +14,17 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     ca-certificates \
   && rm -rf /var/lib/apt/lists/*
 
+# Set working directory
 WORKDIR /app
 
-COPY requirements.txt /app/requirements.txt
-RUN pip install --no-cache-dir -r /app/requirements.txt
+# Copy ONLY the requirements file correctly
+COPY ./requirements.txt ./requirements.txt
 
-COPY . /app
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy entire backend code
+COPY . .
 
 RUN mkdir -p /app/uploads
 
