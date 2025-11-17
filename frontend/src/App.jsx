@@ -3,7 +3,8 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import { useDropzone } from "react-dropzone";
 
-const API = "http://localhost:5000";
+const API = "https://social-media-analyzer-uz4x.onrender.com/";  // your actual URL
+
 
 const saveToken = (t) => localStorage.setItem("sa_token", t);
 const getToken = () => localStorage.getItem("sa_token");

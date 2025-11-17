@@ -22,5 +22,9 @@
   "Velit qui dolorum ad": {
     "name": "Qui est aut blanditi",
     "password": "scrypt:32768:8:1$IqzkDixUY5kPNx55$237f2f3fc46f00c0e9895e37e8da1344c3249c487c63c65dd29d5adf05e0e41535e36e8ce4b948a07809ce70d0b47349103e4974f3383c3200df98de884dbef2"
+  },
+  "Ipsam qui aperiam ni": {
+    "name": "Et sint maiores elit",
+    "password": "scrypt:32768:8:1$UIUsVFdzH4LwdII8$bb0ab0c09a51ad9e0d3232c9476dd77536f0e0625430ab66a5e0e89544938be5953cc16bebd89615ae6ec705537191e7ce4212ba3bf8adbf844665393cb8af22"
   }
 }
